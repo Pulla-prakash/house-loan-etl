@@ -36,5 +36,4 @@ Supports strategic planning and bias mitigation via transparent reporting dashbo
 Demonstrates the integration of Python, SQL, machine learning, and Power BI for practical business problem-solving.
 
 This project reflects the application of data analytics, machine learning, and visualization in addressing operational challenges in the financial sector.
-[Loan Data Analytics ETL and Power BI Visualization Project.docx](https://github.com/user-attachments/files/20671881/Loan.Data.Analytics.ETL.and.Power.BI.Visualization.Project.docx)
 
