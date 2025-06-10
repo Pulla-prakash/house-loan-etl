@@ -26,7 +26,8 @@ The dataset was split into training and test sets (70–30 ratio) using scikit-l
 5. Visualization with Power BI
 Power BI was connected to the PostgreSQL database to enable real-time data access. An interactive dashboard was created with ten visualizations highlighting applicant characteristics, approval rates, credit history impact, and income-to-loan relationships. These visualizations support business users in making informed decisions.
 
- 
+ ![image](https://github.com/user-attachments/assets/5c6f079f-7189-47b7-b059-98ac0c57dace)
+
 
 Business Value
 Automates the loan data pipeline from raw extraction to actionable insights.
